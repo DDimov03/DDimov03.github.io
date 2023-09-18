@@ -21,7 +21,7 @@ Welcome to the ddimov03 website repository! This README provides essential infor
 
 <!-- Page Titles: Each page should have a unique and descriptive title -->
 <!-- Example for the homepage -->
-<title>Welcome to ddimov03 - Portfolio & Projects</title>
+<title>ddimov03</title>
 
 <!-- Meta Descriptions: Write compelling meta descriptions for each page -->
 <!-- Example for the homepage -->
